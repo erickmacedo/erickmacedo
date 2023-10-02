@@ -2,8 +2,8 @@
 
 <h1>Olá, Seja bem vindo (a)!</h1>
 
-<p>Me chamo Erick macedo e este é o meu repositório!</p>
-<p>"Estudante de desenvolvimento de sistemas em constante busca por aprendizado, colaboração e contribuições para projetos inovadores. Comprometido em aprimorar minhas habilidades em programação e construir soluções eficazes para desafios do mundo real. Ansioso para fazer parte da comunidade GitHub e compartilhar meu entusiasmo pela tecnologia."</p>
+<p style="font-size: 16px;"><strong>Me chamo Erick macedo e este é o meu repositório!</strong></p>
+<p>Estudante de desenvolvimento de sistemas em constante busca por aprendizado, colaboração e contribuições para projetos inovadores. Comprometido em aprimorar minhas habilidades em programação e construir soluções eficazes para desafios do mundo real. Ansioso para fazer parte da comunidade GitHub e compartilhar meu entusiasmo pela tecnologia.</p>
 
 
 
