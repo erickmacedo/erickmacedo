@@ -12,6 +12,12 @@
     <img  height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github">
 </div>
 
+<div>
+<h1>Sistemas Operacionais</h1>
+<img title="Windows" align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+<img title="CentOS" align="center" alt="centos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
+</div>
+
 <!--
 **erickmacedo/erickmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
