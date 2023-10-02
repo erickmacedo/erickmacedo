@@ -8,8 +8,8 @@
 
 <h1>Tecnologias</h1>
 <div>
-    <img  height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws">
-    <img  height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github">
+    <img title="AWS" height="100" width="90"  alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img title="GitHub" height="100" width="90" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" >
     <img title="MySQL" alt="mysql" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img title="SQL Server" alt="sql server" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 </div>
