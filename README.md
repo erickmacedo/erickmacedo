@@ -11,7 +11,7 @@
     <img  height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws">
     <img  height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github">
     <img title="MySQL" align="center" alt="mysql" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img title="SQL Server" align="center" alt="sql server" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg
+  <img title="SQL Server" align="center" alt="sql server" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 </div>
 
 <div>
