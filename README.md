@@ -1,8 +1,6 @@
 
 
-<h1>
-<a href="">**Olá, Seja bem vindo (a)!**</a>
-</h1>
+<h1>Olá, Seja bem vindo (a)!</h1>
 
 <h2>Me chamo Erick macedo e este é o meu repositório</h2>
 
