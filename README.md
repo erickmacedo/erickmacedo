@@ -16,8 +16,8 @@
 
 <div>
 <h1>Sistemas Operacionais</h1>
-<img title="Windows" align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-<img title="CentOS" align="center" alt="centos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
+<img title="Windows" align="center" alt="windows" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+<img title="CentOS" align="center" alt="centos" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
 </div>
 
 <!--
