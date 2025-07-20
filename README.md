@@ -12,7 +12,7 @@
 🎓 **Formado em Desenvolvimento de Sistemas**  
 💻 Foco em backend e frontend moderno  
 🌱 Atualmente aprimorando projetos com **Node.js, NestJS, React, Docker e PostgreSQL**  
-📫 **Entre em contato comigo:** [LinkedIn](https://www.linkedin.com/) | [Email](mailto:seuemail@gmail.com)
+📫 **Entre em contato comigo:** [LinkedIn](https://www.linkedin.com/in/erick-almeida-dev/) | [Email](mailto:erick98macedo@gmail.com)
 
 ---
 
@@ -21,7 +21,7 @@
   <img title="JavaScript" alt="JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img title="TypeScript" alt="TypeScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img title="Node.js" alt="Node.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img title="NestJS" alt="NestJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+  <img title="NestJS" alt="NestJS" height="60" width="60" src="https://nestjs.com/logo-small-gradient.d792062c.svg"/>
   <img title="React" alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Docker" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img title="PostgreSQL" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
